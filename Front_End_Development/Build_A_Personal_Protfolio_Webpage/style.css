@@ -1,0 +1,88 @@
+body {
+  background: grey;
+}
+#footer {
+  padding:5%;
+  background: #BBB;
+}
+#footer h3,h4,h2 {
+  color: #fff;
+}
+
+.social-icon div{
+  margin:1%;
+  border-radius: 50%;
+  border: 2px solid white;
+  align:center;
+}
+.social-icon div:hover{
+  background: white;
+}
+#center-form {
+  margin: auto;
+}
+#contact {
+  padding: 5%;
+  background: #ccc;
+}
+#contact h4 {
+  color: #666;
+}
+#contact div {
+  padding: 5% 0;
+}
+
+#nav_info {
+  background-color: #722872;
+}
+
+footer {
+  padding:2%;
+  background-color: #722872;
+}
+
+#nav_info h2 {
+  color: white;
+  font-family: Arial;
+}
+
+#content {
+  margin-top: 4.5%;
+}
+
+#sum {
+  padding: 8% 5% 5% 5%;
+  background: #ccc;
+  margin: auto;
+}
+
+.sum-text {
+  color: white;
+  width: 70%;
+  height: auto;
+  margin: auto;
+}
+
+#sum img {
+  max-width: 80%;
+  height: auto;
+  width: 30%;
+}
+
+#portfolio {
+  padding: 5%;
+  background: #ddd;
+  margin: auto;
+}
+
+#portfolio h2 {
+  color: #aaa;
+}
+
+#portfolio img {
+  background: #ddd;
+}
+
+.img-thumbnail {
+  background: #ddd;
+}
